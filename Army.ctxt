@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=size
+comment0.target=Army(int)
+comment0.text=\r\n\ Constructor\ of\ army\ class,\ creates\ a\ random\ army\ of\ humans,\ elves,\ and\ demons\r\n\ @param\ size\ \ creates\ a\ randomly\ generated\ army\ of\ size\ size\r\n
+comment1.params=
+comment1.target=java.util.ArrayList\ retrieveArmy()
+comment1.text=\r\n\ returns\ the\ arraylist\ of\ this\ object\ containing\ the\ soldiers\ in\ this\ army\r\n\ @retrn\ returns\ the\ arrayList\ of\ soldiers\ in\ this\ army\r\n
+comment2.params=index
+comment2.target=Creature\ returnSoldier(int)
+comment2.text=\r\n\ returns\ the\ soldier\ in\ the\ array\ list\ at\ the\ specified\ index\r\n\ @param\ index\ \ \ \ \ indicates\ the\ position\ in\ the\ arrayList\ for\ which\ creature\ to\ return\r\n\ @returns\ \ \ \ \ \ \ \ returns\ the\ creature\ in\ the\ arrayList\ at\ index\ index\r\n
+comment3.params=
+comment3.target=int\ getSize()
+comment3.text=\r\n\ returns\ the\ number\ of\ creatures\ in\ this\ army\ object\r\n\ @return\ returns\ the\ number\ of\ creature\ objects\ in\ the\ arrayList\r\n
+numComments=4

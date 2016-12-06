@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Human()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ Human\ subclass,\ inititates\ strength\ field\ to\ a\ rondom\ number\ between\ 5\ and\ 18,\ and\ the\ hp\ field\ to\ a\ random\ number\ between\ 10\ and\ 30.\r\n
+numComments=1

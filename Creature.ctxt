@@ -1,6 +1,17 @@
 #BlueJ class context
 comment0.params=
 comment0.target=Creature()
-comment1.params=
-comment1.target=int\ damage()
-numComments=2
+comment0.text=\r\n\ Default\ constructor\ for\ Creature\ class,\ sets\ hp\ and\ strenght\ to\ 10\ each.\r\n
+comment1.params=random\ str\ hitpoints
+comment1.target=Creature(boolean,\ int,\ int)
+comment1.text=\r\n\ Alternate\ Constructor\ for\ Creature\ Class\r\n\ @param\ random\ \ \ \ \ determines\ if\ this\ instance's\ field\ are\ set\ by\ random\ between\ 5\ and\ 10\ if\ random\ \=\ true\r\n\ @param\ str\ \ \ \ \ \ \ \ if\ random\ \=\ false,\ sets\ strength\ field\ to\ str\r\n\ @param\ hitpoints\ \ if\ random\ \=\ false,\ sets\ hp\ fiedl\ to\ hitpoints\r\n
+comment2.params=
+comment2.target=int\ damage()
+comment2.text=\ \r\n\ Returns\ a\ random\ damage\ number\ between\ 1\ and\ the\ strength\ field\ of\ this\ object\r\n\ @return\ \ \ returns\ a\ random\ number\ between\ 1\ and\ creature\ object's\ strenght\r\n
+comment3.params=
+comment3.target=boolean\ isAlive()
+comment3.text=\r\n\ returns\ true\ if\ object's\ hp\ are\ greater\ than\ 0,\ false\ if\ objects\ hp\ are\ <\ 0\r\n\ @return\ \ returns\ true\ if\ creature\ object's\ hp\ are\ above\ 0\ and\ flase\ if\ \r\n\ \ \ \ \ \ \ \ \ \ \ creature\ object's\ hp\ are\ 0\ or\ below\r\n
+comment4.params=dam
+comment4.target=void\ takeDamage(int)
+comment4.text=\r\n\ subtracts\ the\ amount\ of\ damage\ done\ to\ the\ creature\ from\ its\ hp\r\n\ @param\ dam\ \ \ \ the\ points\ of\ damage\ to\ be\ subtracted\ from\ current\ Creature\ object's\ hp\r\n
+numComments=5

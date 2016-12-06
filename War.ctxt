@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=armySize
+comment0.target=War(int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ War,\ randomizes\ the\ two\ armies\ of\ size\ of\ armySize\ prameter.\r\n\ Sets\ the\ counters\ for\ the\ current\ index\ for\ each\ army\ to\ zero,\ and\ victor\ integer\ to\ its\ null\ value\r\n\ of\ -1\r\n\ @param\ arraySize\ \ \ \ \ uses\ paramater\ arraySize\ to\ created\ two\ randomized\ armies\ of\ size\ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ arraySize\ in\ preperation\ for\ a\ war\ between\ them\r\n
+comment1.params=
+comment1.target=void\ goToWar()
+comment1.text=\r\n\ Simulates\ a\ series\ of\ battles\ between\ soldiers\ from\ the\ two\ armies\ until\ one\ or\ both\ of\ the\r\n\ armies\ has\ no\ creatures\ left\ alive.\ \ Than\ prints\ the\ outcome\ to\ the\ scren\r\n
+numComments=2

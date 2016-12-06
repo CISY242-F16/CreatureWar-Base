@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=one\ two
+comment0.target=Battle(Creature,\ Creature)
+comment0.text=\r\n\ Battle\ classs\ constructor\ sets\ up\ battle\ between\ 2\ passed\ creatures\r\n\ @param\ one\ \ \ the\ first\ creature\ fightiong\ in\ the\ battle\r\n\ @param\ two\ \ \ the\ other\ creature\ fighting\ in\ the\ battle\r\n
+comment1.params=
+comment1.target=void\ roundOfBattle()
+comment1.text=\r\n\ simulates\ a\ round\ of\ battle\ (each\ creature\ dealing\ damage\ to\ the\ other)\ between\ the\ \r\n\ two\ creature\ objects\ passed\ into\ the\ constructor\r\n
+comment2.params=
+comment2.target=int\ doBattle()
+comment2.text=\r\n\ simulates\ battle\ between\ 2\ creatures\ passed\ into\ this\ object's\ constructor\r\n\ returns\ 0\ if\ both\ creatures\ are\ dead\ after\ battle,\ 1\ if\ firstCreature\ is\ alive\ and\ \r\n\ secondCreature\ is\ dead,\ and\ 2\ if\ firstCreature\ is\ dead\ and\ secondCreature\ is\ left\ alive\ \r\n\ after\ battle\ is\ finished\r\n\ \r\n\ @return\ \ \ returns\ the\ outcome\ of\ the\ battle\ in\ integer\ format\r\n
+numComments=3
