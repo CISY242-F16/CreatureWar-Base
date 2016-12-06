@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CyberDemon()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ CyberDemon\ that\ creates\ a\ random\ number\ between\ 20\ and\ 40\r\n\ and\ stores\ it\ to\ strength\ field,\ and\ sets\ the\ hp\ field\ to\ a\ random\ number\ between\ 25\ and\ 100\r\n
+numComments=1

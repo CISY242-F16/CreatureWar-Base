@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Elf()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Elf\ that\ sets\ strenght\ at\ a\ value\ from\ 5\ through\ 18\ and\ hp\ at\ a\ value\ from\ 8\ through\ 25\r\n
+comment1.params=
+comment1.target=int\ damage()
+comment1.text=\r\n\ Overriden\ damage\ method\ to\ include\ a\ 10%\ chance\ of\ doing\ 2x\ damage,\ which\ is\ a\ random\ number\r\n\ between\ 1\ and\ strength\r\n\ @return\ the\ random\ damage\ from\ a\ elf\ object\ ranging\ from\ 1\ to\ 2*Creature's\ strength\r\n
+numComments=2
